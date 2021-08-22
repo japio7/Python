@@ -17,6 +17,12 @@ Research Question: Can the travel time be predicted by distance and average spee
 <br>Type: Regression
 <br>Dataset Source: travel_times.csv, file included
 
+### mini_project_3
+Research Question: Can Naive Bayes predict if a Tweeter user is verified based on tweets about Bitcoin?
+<br>Method: Multinomial Naive Bayes
+<br>Type: Text Classification
+<br>Dataset Source: https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets
+
 ## Prerequisites
 ##### pip install pandas
 ##### pip install numpy
