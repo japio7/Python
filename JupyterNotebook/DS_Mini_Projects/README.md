@@ -1,7 +1,6 @@
 # DATA SCIENCE MINI PROJECTS
 
-## Mini projects written in Python.
-
+## Mini projects written in Python
 
 ## Details
 
@@ -22,6 +21,12 @@ Research Question: Can Naive Bayes predict if a Tweeter user is verified based o
 <br>Method: Multinomial Naive Bayes
 <br>Type: Text Classification
 <br>Dataset Source: https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets
+
+### mini_project_4
+Research Question: Can the house price of unit area be predicted by other variables using linear regression?
+<br>Method: Ordinary Least Squares Regression, Lasso egression, Ridge Regression
+<br>Type: Linear Regression
+<br>Dataset Source: https://www.kaggle.com/quantbruce/real-estate-price-prediction
 
 ## Prerequisites
 ##### pip install pandas
