@@ -28,6 +28,12 @@ Research Question: Can the house price of unit area be predicted by other variab
 <br>Type: Linear Regression
 <br>Dataset Source: https://www.kaggle.com/quantbruce/real-estate-price-prediction
 
+### mini_project_5
+Research Question: Can K-Means clustering algorithm find good clusters that can be used for classification?
+<br>Method: K-Means, Logistic Regression, Principal Component Analysis
+<br>Type: Clustering, Logistic Regression, Dimensional Reduction
+<br>Dataset Source: https://archive.ics.uci.edu/ml/datasets/wine
+
 ## Prerequisites
 ##### pip install pandas
 ##### pip install numpy
